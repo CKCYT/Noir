@@ -1,9 +1,11 @@
 body{
-    background-color: #115D33;
+    background-color: #2b9c2b;
     font-family: 'Times New Roman', Times, serif;
 }
 
 #navbar{
+    top: 0;
+    size: 25px;
     background-color: Black;
     color:white;
     font-family: 'Times New Roman', Times, serif;
