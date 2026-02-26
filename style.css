@@ -1,7 +1,11 @@
 body{
     background-color: #115D33;
+    font-family: 'Times New Roman', Times, serif;
 }
+
 #navbar{
     background-color: Black;
+    color:white;
+    font-family: 'Times New Roman', Times, serif;
 
 }
